@@ -26,10 +26,7 @@ ul, li {
 /**
 
 
-.breadcrumb li {
-	display: inline-block;
-	font-weight: 300;
-}
+
 .breadcrumb li:after {
 	content: '>';
 	padding: 0 0.5em;
