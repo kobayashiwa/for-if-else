@@ -41,6 +41,7 @@ ul, li {
 }
 .CardPreview img {
 	width: 100%;
+	border-radius: 6px;
 }
 
 
@@ -51,9 +52,7 @@ ul, li {
 
 
 
-.ArticleImage {
-	width: 100%;
-}
+
 .ArticleHeader {
 	margin-bottom: 40px;
 }
