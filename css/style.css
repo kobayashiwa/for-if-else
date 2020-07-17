@@ -24,12 +24,7 @@ ul, li {
 
 
 /**
-.container {
-	width: 100%;
-	max-width: 1290px;
-	margin: 0 auto;
-	padding: 0 24px;
-}
+
 .Breadcrumbs {
 	margin: 40px 0;
 	font-size: 14px;
