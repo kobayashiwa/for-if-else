@@ -27,6 +27,9 @@ ul, li {
 	margin: 0 auto;
 	padding: 0 24px;
 }
+.RelatedContent {
+	margin: 64px 0;
+}
 
 
 /**
@@ -36,9 +39,6 @@ ul, li {
 
 
 
-.ArticleWrap {
-	display: flex;
-}
 article {
 	flex: 1;
 	padding-right: 32px;
