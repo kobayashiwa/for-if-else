@@ -30,6 +30,13 @@ ul, li {
 .RelatedContent {
 	margin: 64px 0;
 }
+.Cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+.CardPreview {
+	width: 33.33%;
+}
 
 
 /**
