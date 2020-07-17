@@ -21,6 +21,12 @@ ul, li {
 	margin: 0;
 	padding: 0;
 }
+.container {
+	width: 100%;
+	max-width: 1290px;
+	margin: 0 auto;
+	padding: 0 24px;
+}
 
 
 /**
@@ -29,9 +35,7 @@ ul, li {
 
 
 
-.FutureArticle {
-	margin: 80px 0;
-}
+
 .ArticleWrap {
 	display: flex;
 }
