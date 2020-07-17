@@ -37,6 +37,9 @@ ul, li {
 .CardPreview {
 	width: 33.33%;
 }
+.CardPreview img {
+	width: 100%;
+}
 
 
 /**
@@ -46,10 +49,6 @@ ul, li {
 
 
 
-article {
-	flex: 1;
-	padding-right: 32px;
-}
 .RailRight {
 	width: 410px;
 }
